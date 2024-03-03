@@ -321,7 +321,7 @@ artist: 'Usama Ali X Ahad Khan',
 //Song 39
 {
 path: 'assets/39.mp3',
-displayName: '39.Angrezi Beat 🍸',
+displayName: '39. Angrezi Beat 🍸',
 cover: 'assets/39.jpg',
 artist: 'Yo Yo Honey Singh X Gippy Grewal',
 },
