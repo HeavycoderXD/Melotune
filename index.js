@@ -414,6 +414,14 @@ cover: 'assets/50.jpg',
 artist: 'Neeraj Shridhar X Anand Raaj',
 },
 
+    //Song 51
+{
+path: 'assets/51.mp3',
+displayName: 'Starboy ',
+cover: 'assets/22.jpg',
+artist: 'XYZ Artist,
+},
+
 
 ];
 
