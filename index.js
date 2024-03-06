@@ -416,7 +416,7 @@ artist: 'Neeraj Shridhar X Anand Raaj',
 
     //Song 51
 {
-path: 'assets/51.mp3',
+path: 'assets/21.mp3',
 displayName: 'Starboy ',
 cover: 'assets/22.jpg',
 artist: 'XYZ Artist,
