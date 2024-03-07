@@ -413,13 +413,6 @@ displayName: '50. Jhak Maarke X Billo Raani 🌺 ',
 cover: 'assets/50.jpg',
 artist: 'Neeraj Shridhar X Anand Raaj',
 },
-//Song 51
-{
-path: 'assets/22.mp3',
-displayName: 'lokesh parmar ',
-cover: 'assets/22.jpg',
-artist: 'Neeraj Shridhar X Anand Raaj',
-},
 
 
 ];
